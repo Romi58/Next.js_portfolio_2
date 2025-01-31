@@ -40,7 +40,7 @@ portfolio/
 
 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/Romi58/Next.js_portfolio_2.git
 cd portfolio
 ```
 
